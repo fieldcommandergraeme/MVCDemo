@@ -1,0 +1,10 @@
+C:\Users\Graeme\documents\visual studio 2015\Projects\MVCDemo\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Graeme\documents\visual studio 2015\Projects\MVCDemo\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Graeme\documents\visual studio 2015\Projects\MVCDemo\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Graeme\documents\visual studio 2015\Projects\MVCDemo\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Graeme\documents\visual studio 2015\Projects\MVCDemo\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Graeme\documents\visual studio 2015\Projects\MVCDemo\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Graeme\documents\visual studio 2015\Projects\MVCDemo\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Graeme\documents\visual studio 2015\Projects\MVCDemo\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Graeme\documents\visual studio 2015\Projects\MVCDemo\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Graeme\documents\visual studio 2015\Projects\MVCDemo\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
